@@ -1,0 +1,19 @@
+{
+    "name": "patrones_diseno/slug",
+    "description": "patrones_diseno",
+
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/",
+            "src\\Pizza\\": "src/Pizza/",
+            "src\\Carros\\": "src/Carros/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cristhian Custodio",
+            "email": "cryisthian_06@hotmail.com"
+        }
+    ],
+    "require": {}
+}
