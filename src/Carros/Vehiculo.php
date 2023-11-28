@@ -13,7 +13,7 @@ abstract class Vehiculo implements VehiculoBase{
     protected int $numero_asientos;
 
     public function __construct(){
-        echo "Bienvenido";
+        
     }
     public function getRuedas(){
         return $this->numero_ruedas;
