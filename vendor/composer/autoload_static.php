@@ -10,6 +10,8 @@ class ComposerStaticInit545c8c0e41bd77e1db01b5d4119ccf65
         's' => 
         array (
             'src\\Pizza\\' => 10,
+            'src\\Eventos\\' => 12,
+            'src\\Carros\\' => 11,
             'src\\' => 4,
         ),
     );
@@ -18,6 +20,14 @@ class ComposerStaticInit545c8c0e41bd77e1db01b5d4119ccf65
         'src\\Pizza\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/Pizza',
+        ),
+        'src\\Eventos\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Eventos',
+        ),
+        'src\\Carros\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src/Carros',
         ),
         'src\\' => 
         array (

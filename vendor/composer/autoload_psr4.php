@@ -7,5 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'src\\Pizza\\' => array($baseDir . '/src/Pizza'),
+    'src\\Eventos\\' => array($baseDir . '/src/Eventos'),
+    'src\\Carros\\' => array($baseDir . '/src/Carros'),
     'src\\' => array($baseDir . '/src'),
 );

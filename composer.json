@@ -6,7 +6,8 @@
         "psr-4": {
             "src\\": "src/",
             "src\\Pizza\\": "src/Pizza/",
-            "src\\Carros\\": "src/Carros/"
+            "src\\Carros\\": "src/Carros/",
+            "src\\Eventos\\": "src/Eventos/"
         }
     },
     "authors": [
